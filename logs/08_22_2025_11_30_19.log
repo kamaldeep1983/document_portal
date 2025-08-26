@@ -1,6 +1,0 @@
-{"timestamp": "2025-08-22T15:30:31.750762Z", "level": "info", "event": "Serving UI homepage."}
-{"timestamp": "2025-08-22T15:30:36.662534Z", "level": "info", "event": "Received file for analysis: Long_Report_V2.pdf"}
-{"session_id": "session_20250822_210036_5538b68f", "session_path": "/Users/kamaldeepsingh/GitProject/sunny/document_portal/data/document_analysis/session_20250822_210036_5538b68f", "timestamp": "2025-08-22T15:30:36.663580Z", "level": "info", "event": "DocHandler initialized"}
-{"file": "Long_Report_V2.pdf", "save_path": "/Users/kamaldeepsingh/GitProject/sunny/document_portal/data/document_analysis/session_20250822_210036_5538b68f/Long_Report_V2.pdf", "session_id": "session_20250822_210036_5538b68f", "timestamp": "2025-08-22T15:30:36.663839Z", "level": "info", "event": "PDF saved successfully"}
-{"error": "name 'fitz' is not defined", "pdf_path": "/Users/kamaldeepsingh/GitProject/sunny/document_portal/data/document_analysis/session_20250822_210036_5538b68f/Long_Report_V2.pdf", "session_id": "session_20250822_210036_5538b68f", "timestamp": "2025-08-22T15:30:36.663905Z", "level": "error", "event": "Failed to read PDF"}
-{"exc_info": true, "timestamp": "2025-08-22T15:30:36.664836Z", "level": "error", "event": "Error during document analysis"}

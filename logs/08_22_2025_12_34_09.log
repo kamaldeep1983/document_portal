@@ -1,6 +1,0 @@
-{"session_path": "data/document_compare/session_20250822_220455_d8a0801e", "timestamp": "2025-08-22T16:34:55.164199Z", "level": "info", "event": "DocumentComparator initialized"}
-{"reference": "data/document_compare/session_20250822_220455_d8a0801e/Long_Report_V1.pdf", "actual": "data/document_compare/session_20250822_220455_d8a0801e/Long_Report_V2.pdf", "session": "session_20250822_220455_d8a0801e", "timestamp": "2025-08-22T16:34:55.164994Z", "level": "info", "event": "Files saved"}
-{"file": "data/document_compare/session_20250822_220455_d8a0801e/Long_Report_V1.pdf", "pages": 1, "timestamp": "2025-08-22T16:34:55.172285Z", "level": "info", "event": "PDF read successfully"}
-{"file": "data/document_compare/session_20250822_220455_d8a0801e/Long_Report_V2.pdf", "pages": 1, "timestamp": "2025-08-22T16:34:55.174780Z", "level": "info", "event": "PDF read successfully"}
-{"count": 2, "session": "session_20250822_220455_d8a0801e", "timestamp": "2025-08-22T16:34:55.174972Z", "level": "info", "event": "Documents combined"}
-{"missing_vars": ["GOOGLE_API_KEY", "GROQ_API_KEY"], "timestamp": "2025-08-22T16:34:55.175556Z", "level": "error", "event": "Missing environment variables"}
