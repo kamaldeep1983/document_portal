@@ -8,5 +8,6 @@ client = TestClient(app)
 
 def test_home():
     response = client.get("/")
+    print(f"status code is {response.status_code}")
     assert response.status_code == 200
     assert "Document Portal" in response.text
