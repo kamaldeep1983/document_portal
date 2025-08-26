@@ -1,0 +1,8 @@
+{"timestamp": "2025-08-22T15:22:51.285206Z", "level": "info", "event": "Serving UI homepage."}
+{"timestamp": "2025-08-22T15:23:00.688996Z", "level": "info", "event": "Received file for analysis: Long_Report_V2.pdf"}
+{"session_id": "session_20250822_205300_e5f54bdb", "session_path": "/Users/kamaldeepsingh/GitProject/sunny/document_portal/data/document_analysis/session_20250822_205300_e5f54bdb", "timestamp": "2025-08-22T15:23:00.690160Z", "level": "info", "event": "DocHandler initialized"}
+{"file": "Long_Report_V2.pdf", "save_path": "/Users/kamaldeepsingh/GitProject/sunny/document_portal/data/document_analysis/session_20250822_205300_e5f54bdb/Long_Report_V2.pdf", "session_id": "session_20250822_205300_e5f54bdb", "timestamp": "2025-08-22T15:23:00.690355Z", "level": "info", "event": "PDF saved successfully"}
+{"pdf_path": "/Users/kamaldeepsingh/GitProject/sunny/document_portal/data/document_analysis/session_20250822_205300_e5f54bdb/Long_Report_V2.pdf", "session_id": "session_20250822_205300_e5f54bdb", "pages": 1, "timestamp": "2025-08-22T15:23:00.695439Z", "level": "info", "event": "PDF read successfully"}
+{"missing_vars": ["GOOGLE_API_KEY", "GROQ_API_KEY"], "timestamp": "2025-08-22T15:23:00.695665Z", "level": "error", "event": "Missing environment variables"}
+{"timestamp": "2025-08-22T15:23:00.695726Z", "level": "error", "event": "Error initializing DocumentAnalyzer: Error in [<unknown>] at line [-1] | Message: Missing environment variables"}
+{"exc_info": true, "timestamp": "2025-08-22T15:23:00.696558Z", "level": "error", "event": "Error during document analysis"}
